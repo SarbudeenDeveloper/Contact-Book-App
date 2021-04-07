@@ -1,4 +1,4 @@
-# Contact-Book-App-
+# Contact-Book-App
 Contact Book App using Java with (Mysql Database Connection)
 
 Sample Input and Outputs
